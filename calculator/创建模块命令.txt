@@ -1,0 +1,2 @@
+// 创建名为myuser/calculator 的模块
+go mod init myuser/calculator
